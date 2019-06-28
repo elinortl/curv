@@ -1,2 +1,0 @@
-# curv
-Created with CodeSandbox
